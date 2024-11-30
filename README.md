@@ -6,9 +6,9 @@ Sub-Directories:
 * Text_not_relevant: This sub-directory contains 1 paper which was marked as not relevant during the text review phase.
 * Papers_cited: This sub-directory includes 22 papers that were cited in the systematic literature review. These papers are considered highly relevant and significant to the research questions and topics addressed in the SLR. Each paper in this directory has been referenced in the analysis and synthesis of the literature.
 * International_Conferences: This sub-directory contains 2 papers from international conferences. Among these, three specific papers were cited in the master's thesis and have been individually saved by title in the "Papers_cited" sub-directory:
-	** "Agile project development issues during COVID-19. In Lean and Agile Software Development"
-	** "Implementing lean principles in scrum to adapt to remote work in a Covid-19 impacted software team"
-	** "Impacts of COVID-19 pandemic for software development in nordic companies – agility helps to respond"
+** "Agile project development issues during COVID-19. In Lean and Agile Software Development"
+** "Implementing lean principles in scrum to adapt to remote work in a Covid-19 impacted software team"
+** "Impacts of COVID-19 pandemic for software development in nordic companies – agility helps to respond"
 
 2.) SLR_1_ListofAllPapers.xlsx:
 - This file is a comprehensive spreadsheet that lists all the academic papers identified through a systematic literature review (SLR). The papers included in this file were selected based on a predefined search command and specific filter criteria. This document serves as an essential input for conducting the SLR, providing a detailed overview of the relevant literature in the field.
