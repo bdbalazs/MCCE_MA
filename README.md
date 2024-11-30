@@ -3,7 +3,7 @@
 1.) Papers evaluated.zip:
 The zip file "SLR_2_Analysis.zip" contains three sub-directories that organize the papers analyzed during the systematic literature review (SLR). These sub-directories categorize the papers based on their relevance and usage in the SLR, providing a structured approach to the literature review process.
 Sub-Directories:
-* Text_not_relevant: This sub-directory contains 1 paper that were marked as not relevant during the text review phase.
+* Text_not_relevant: This sub-directory contains 1 paper which was marked as not relevant during the text review phase.
 * Papers_cited: This sub-directory includes 22 papers that were cited in the systematic literature review. These papers are considered highly relevant and significant to the research questions and topics addressed in the SLR. Each paper in this directory has been referenced in the analysis and synthesis of the literature.
 * International_Conferences: This sub-directory contains 2 papers from international conferences. Among these, three specific papers were cited in the master's thesis and have been individually saved by title in the "Papers_cited" sub-directory:
 	** "Agile project development issues during COVID-19. In Lean and Agile Software Development"
