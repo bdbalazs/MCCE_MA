@@ -22,7 +22,7 @@ Sub-Directories:
 5.) All_Figure.pptx:
 - This file contains all figures of the master Thesis.
 
-6.) Transcripts_zip:
+6.) Transcripts.zip:
 - Transcripts of semi-structured interviews in original language, German, and translated to English.
 
 8.) MA_project_in_MAXQDA.mx24:
